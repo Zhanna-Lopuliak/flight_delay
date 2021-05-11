@@ -1,0 +1,56 @@
+Registration number,Full_model,Airline,Operator,Type code,Code,Mode s,Serial number,Age,Production
+UR-14005,Antonov An-140,"Motor Sich
+Airlines",Motor Sich Airlines,A140,M9 / MSI,508095,36525305021,18 years,2003
+UR-47297,Antonov An-24RV,"Motor Sich
+Airlines",Motor Sich Airlines,AN24,M9 / MSI,50824D,7306610,50 years,1971
+UR-74026,Antonov An-74TK-200,Motor Sich Airlines,Motor Sich Airlines,AN72,M9 / MSI,508056,36547096919,29 years,1992
+UR-88310,Yakovlev Yak-40,"Motor Sich
+Airlines",Motor Sich Airlines,YK40,M9 / MSI,50810B,9940760,41 years,1980
+UR-BXC,Antonov An-24RV,Motor Sich Airlines,Motor Sich Airlines,AN24,M9 / MSI,508108,37308902,48 years,1973
+UR-MSI,Antonov An-24RV,Motor Sich Airlines,Motor Sich Airlines,AN24,M9 / MSI,508107,27307608,48 years,1962
+UR-MSX,Yakovlev Yak-40,"Motor Sich
+Airlines",Motor Sich Airlines,YK40,M9 / MSI,508144,9530642,46 years,1975
+UR-EMA,Embraer E190STD,"Ukraine
+International Airlines",Ukraine Int. Airlines,E190,PS / AUI,508267,19000494,9 years,2013
+UR-EMB,Embraer E190STD,Ukraine International Airlines,Ukraine Int. Airlines,E190,PS / AUI,508268,19000501,9 years,2013
+UR-EMC,Embraer E190LR,Ukraine International Airlines,Ukraine Int. Airlines,E190,PS / AUI,5082EA,19000589,7 years,2013
+UR-EMD,Embraer E190LR,Ukraine International Airlines,Ukraine Int. Airlines,E190,PS / AUI,5.08E+12,19000602,7 years,2013
+UR-EME,Embraer E190LR,Ukraine International Airlines,Ukraine Int. Airlines,E190,PS / AUI,5.08E+11,19000614,7 years,2013
+UR-EMF,Embraer E195LR,Ukraine International Airlines,Ukraine Int. Airlines,E195,PS / AUI,508425,19000069,14 years,2007
+UR-EMG,Embraer E195AR,Ukraine International Airlines,Ukraine Int. Airlines,E195,PS / AUI,508414,19000088,14 years,2007
+UR-GAT,Boeing 737-528,Ukraine International Airlines,Ukraine Int. Airlines,B735,PS / AUI,508123,25237,27 years,1993
+UR-GBD,Boeing 737-36Q,Ukraine International Airlines,Ukraine Int. Airlines,B733,PS / AUI,5081CF,28659,23 years,1997
+UR-GEA,Boeing 767-322(ER),Ukraine International Airlines,Ukraine Int. Airlines,B763,PS / AUI,5081EC,25280,29 years,1991
+UR-GED,Boeing 767-33A(ER),Ukraine International Airlines,Ukraine Int. Airlines,B763,PS / AUI,50822A,25536,22 years,1993
+UR-GOA,Boeing 777-2Q8(ER),Ukraine International Airlines,Ukraine Int. Airlines,B772,PS / AUI,5083D9,29402,15 years,2005
+UR-PSE,Boeing 737-84R,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,508278,38119,9 years,2013
+UR-PSF,Boeing 737-84R,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,508279,38120,8 years,2013
+UR-PSG,Boeing 737-85R,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,5082C8,29038,21 years,1999
+UR-PSI,Boeing 737-9KV(ER),Ukraine International Airlines,Ukraine Int. Airlines,B739,PS / AUI,5.08E+09,41534,7 years,2013
+UR-PSJ,Boeing 737-9KV(ER),Ukraine International Airlines,Ukraine Int. Airlines,B739,PS / AUI,508302,41535,7 years,2013
+UR-PSK,Boeing 737-94X(ER),Ukraine International Airlines,Ukraine Int. Airlines,B739,PS / AUI,5082EF,36086,11 years,2009
+UR-PSL,Boeing 737-94X(ER),Ukraine International Airlines,Ukraine Int. Airlines,B739,PS / AUI,5082F0,36087,11 years,2009
+UR-PSM,Boeing 737-8FZ,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,508366,29674,11 years,2010
+UR-PSN,Boeing 737-86N,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,50836B,28614,21 years,2000
+UR-PSO,Boeing 737-8Q8,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,508371,30628,20 years,2001
+UR-PSP,Boeing 737-8Q8,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,508370,28241,19 years,2001
+UR-PSQ,Boeing 737-86N,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,50837A,28620,20 years,2000
+UR-PSW,Boeing 737-8KV,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,508395,41536,4 years,2017
+UR-PSX,Boeing 737-8EH,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,50839B,34280,14 years,2006
+UR-PSY,Boeing 737-8EH,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,50839C,34821,14 years,2006
+UR-PSZ,Boeing 737-86N,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,5083D0,36820,11 years,2009
+UR-UIA,Boeing 737-8KV,Ukraine International Airlines,Ukraine Int. Airlines,B738,PS / AUI,5083C9,38121,3 years,2017
+UR-DNF,Embraer ERJ-145EU,Windrose Airlines,Windrose Airlines,E145,7W / WRC,50818D,145404,20 years,2001
+UR-DNR,Embraer ERJ-145LR,Windrose Airlines,Windrose Airlines,E145,7W / WRC,508211,145641,19 years,2002
+UR-DNT,Embraer ERJ-145LR,Windrose Airlines,Windrose Airlines,E145,7W / WRC,508216,145709,18 years,2003
+UR-DPB,Embraer ERJ-145LR,Windrose Airlines,Windrose Airlines,E145,7W / WRC,50822B,145250,21 years,2000
+UR-RWA,ATR 72-600,Windrose Airlines,Windrose Airlines,AT76,7W / WRC,508454,1178,6 years,2014
+UR-RWB,ATR 72-600,Windrose Airlines,Windrose Airlines,AT76,7W / WRC,508455,1262,5 years,2015
+UR-RWC,ATR 72-600,Windrose Airlines,Windrose Airlines,AT76,7W / WRC,50845A,1450,3 years,2017
+UR-RWD,ATR 72-600,Windrose Airlines,Windrose Airlines,AT76,7W / WRC,50845E,1458,3 years,2017
+UR-WRH,Airbus A321-231,Windrose Airlines,Windrose Airlines,A321,7W / WRC,50822E,2462,15 years,2005
+UR-WRI,Airbus A321-231,Windrose Airlines,Windrose Airlines,A321,7W / WRC,50822F,2682,15 years,2006
+UR-WRJ,Airbus A321-231,Windrose Airlines,Windrose Airlines,A321,7W / WRC,50822C,1869,18 years,2002
+UR-WRW,Airbus A320-214,Windrose Airlines,Windrose Airlines,A320,7W / WRC,508424,1860,18 years,2002
+UR-COI,Boeing 737-4B7,YanAir,YanAir,B734,YE / ANR,50838C,24550,31 years,1989
+UR-CQX,Boeing 737-4B7,YanAir,YanAir,B734,YE / ANR,5083DB,24558,30 years,1990

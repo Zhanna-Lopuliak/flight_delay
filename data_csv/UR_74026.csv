@@ -1,0 +1,1281 @@
+Date of flight,Origin,Destination,Flight number,Flight_times,Model,STD,ATD,STA,ATA
+"30 Dec 2019
+                            ",INI,ESB,"M96541
+",1:48,UR-74026,10:53 AM,10:50 AM,â€”,"Landed 12:39 PM
+                            "
+"30 Dec 2019
+                            ",OZH,INI,"M96541
+",2:14,UR-74026,8:45 AM,6:30 AM,â€”,"Landed 8:44 AM
+                            "
+"20 Dec 2019
+                            ",HME,OZH,"M96548
+",5:57,UR-74026,4:25 PM,3:06 PM,â€”,"Landed 9:03 PM
+                            "
+"18 Dec 2019
+                            ",GML,GHA,"M96547
+",6:44,UR-74026,2:03 PM,2:00 PM,â€”,"Landed 8:44 PM
+                            "
+"18 Dec 2019
+                            ",OZH,GML,"M96214
+",1:14,UR-74026,11:27 AM,10:10 AM,â€”,"Landed 11:24 AM
+                            "
+"14 Dec 2019
+                            ",ESB,OZH,"M96548
+",3:02,UR-74026,2:19 PM,2:11 PM,â€”,"Landed 5:14 PM
+                            "
+"12 Dec 2019
+                            ",CAI,XCR,"M96548
+",6:09,UR-74026,11:54 AM,10:00 AM,â€”,"Landed 4:09 PM
+                            "
+"06 Dec 2019
+                            ",ADB,ADJ,"M96547
+",2:51,UR-74026,7:41 PM,7:37 PM,â€”,"Landed 10:28 PM
+                            "
+"04 Dec 2019
+                            ",ZAZ,XCR,"M96547
+",2:34,UR-74026,2:31 AM,11:58 PM,â€”,"Landed 2:33 AM
+                            "
+"03 Dec 2019
+                            ",QGY,ZAZ,"M96548
+",3:21,UR-74026,6:55 PM,6:51 PM,â€”,"Landed 10:12 PM
+                            "
+"27 Nov 2019
+                            ",RUH,RUH,"M96547
+",-,UR-74026,10:24 AM,10:17 AM,â€”,"Unknown
+                            "
+"26 Nov 2019
+                            ",BOJ,RUH,"M96547
+",5:30,UR-74026,9:48 PM,4:17 PM,â€”,"Landed 9:47 PM
+                            "
+"26 Nov 2019
+                            ",ORB,BOJ,"M96547
+",4:43,UR-74026,11:55 AM,11:51 AM,â€”,"Landed 4:35 PM
+                            "
+"26 Nov 2019
+                            ",RIX,ORB,"M96548
+",1:16,UR-74026,10:54 AM,9:35 AM,â€”,"Landed 10:52 AM
+                            "
+"25 Nov 2019
+                            ",CAI,RIX,"M96548
+",5:28,UR-74026,9:46 PM,4:15 PM,â€”,"Landed 9:42 PM
+                            "
+"24 Nov 2019
+                            ",BOJ,ASW,"M96547
+",4:00,UR-74026,7:48 AM,7:35 AM,â€”,"Landed 11:35 AM
+                            "
+"23 Nov 2019
+                            ",OZH,BOJ,"M96547
+",1:54,UR-74026,2:58 PM,3:10 PM,â€”,"Landed 5:04 PM
+                            "
+"12 Nov 2019
+                            ",GML,OZH,"M96216
+",1:06,UR-74026,3:16 PM,3:11 PM,â€”,"Landed 4:17 PM
+                            "
+"11 Nov 2019
+                            ",TGD,GML,"M96547
+",2:54,UR-74026,2:36 PM,11:40 AM,â€”,"Landed 2:33 PM
+                            "
+"10 Nov 2019
+                            ",RUH,TGD,"M96548
+",6:33,UR-74026,9:41 AM,7:10 AM,â€”,"Landed 1:43 PM
+                            "
+"08 Nov 2019
+                            ",BSL,CAI,"M96547
+",4:44,UR-74026,6:28 AM,6:25 AM,â€”,"Landed 11:09 AM
+                            "
+"07 Nov 2019
+                            ",OZH,BSL,"M96547
+",4:43,UR-74026,10:41 AM,10:34 AM,â€”,"Landed 3:17 PM
+                            "
+"01 Nov 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"01 Nov 2019
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,4:45 AM,â€”,7:00 AM,"Landed 6:37 AM
+                            "
+"29 Oct 2019
+                            ",IEV,OZH,"M9202
+",1:17,UR-74026,6:00 PM,6:01 PM,7:15 PM,"Landed 7:18 PM
+                            "
+"29 Oct 2019
+                            ",LWO,IEV,"M9264
+",0:54,UR-74026,3:50 PM,3:47 PM,5:10 PM,"Landed 4:42 PM
+                            "
+"29 Oct 2019
+                            ",IEV,LWO,"M9263
+",1:31,UR-74026,8:00 AM,8:06 AM,9:15 AM,"Landed 9:37 AM
+                            "
+"29 Oct 2019
+                            ",OZH,IEV,"M9201
+",1:05,UR-74026,5:20 AM,5:31 AM,6:50 AM,"Landed 6:35 AM
+                            "
+"25 Oct 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"25 Oct 2019
+                            ",OZH,MSQ,"M9317
+",2:03,UR-74026,3:45 AM,9:31 AM,6:00 AM,"Landed 11:34 AM
+                            "
+"22 Oct 2019
+                            ",DNK,OZH,"M96218
+",-,UR-74026,12:29 PM,12:25 PM,â€”,"Unknown
+                            "
+"19 Oct 2019
+                            ",OPO,BTS,"M96532
+",3:25,UR-74026,6:57 PM,6:51 PM,â€”,"Landed 10:17 PM
+                            "
+"17 Oct 2019
+                            ",BTS,OPO,"M96531
+",4:48,UR-74026,2:44 PM,2:41 PM,â€”,"Landed 7:29 PM
+                            "
+"17 Oct 2019
+                            ",DNK,BTS,"M96531
+",2:42,UR-74026,1:56 PM,11:10 AM,â€”,"Landed 1:51 PM
+                            "
+"16 Oct 2019
+                            ",HME,DNK,"M96548
+",5:52,UR-74026,12:58 PM,11:51 AM,â€”,"Landed 5:43 PM
+                            "
+"10 Oct 2019
+                            ",LWO,ASW,"M96547
+",5:51,UR-74026,5:58 PM,5:48 PM,â€”,"Landed 11:40 PM
+                            "
+"05 Sep 2019
+                            ",ASW,ODS,"M96546
+",4:35,UR-74026,1:36 AM,9:04 PM,â€”,"Landed 1:38 AM
+                            "
+"01 Sep 2019
+                            ",OZH,ASW,"M96545
+",5:43,UR-74026,7:13 PM,7:03 PM,â€”,"Landed 12:47 AM
+                            "
+"29 Aug 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,11:50 AM,2:15 PM,"Landed 1:50 PM
+                            "
+"29 Aug 2019
+                            ",OZH,MSQ,"M9317
+",2:03,UR-74026,3:45 AM,3:55 AM,6:00 AM,"Landed 5:58 AM
+                            "
+"28 Aug 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,11:55 AM,2:15 PM,"Landed 1:55 PM
+                            "
+"28 Aug 2019
+                            ",OZH,MSQ,"M9317
+",1:36,UR-74026,3:45 AM,3:51 AM,6:00 AM,"Landed 5:27 AM
+                            "
+"25 Aug 2019
+                            ",LWO,OZH,"M96216
+",2:01,UR-74026,5:57 PM,5:51 PM,â€”,"Landed 7:52 PM
+                            "
+"23 Aug 2019
+                            ",GRO,LWO,"M96532
+",3:11,UR-74026,1:20 PM,1:14 PM,â€”,"Landed 4:25 PM
+                            "
+"21 Aug 2019
+                            ",OZH,GRO,"M96531
+",5:39,UR-74026,11:46 AM,6:10 AM,â€”,"Landed 11:49 AM
+                            "
+"19 Aug 2019
+                            ",MSQ,OZH,"M9318
+",1:37,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 1:36 PM
+                            "
+"19 Aug 2019
+                            ",OZH,MSQ,"M9317
+",2:03,UR-74026,3:45 AM,3:45 AM,6:00 AM,"Landed 5:48 AM
+                            "
+"18 Aug 2019
+                            ",IEV,OZH,"M9204
+",1:19,UR-74026,5:30 PM,5:32 PM,6:45 PM,"Landed 6:51 PM
+                            "
+"18 Aug 2019
+                            ",LWO,IEV,"M9266
+",1:02,UR-74026,3:00 PM,3:03 PM,4:20 PM,"Landed 4:05 PM
+                            "
+"17 Aug 2019
+                            ",IEV,LWO,"M9265
+",1:24,UR-74026,8:00 AM,1:43 PM,9:20 AM,"Landed 3:07 PM
+                            "
+"17 Aug 2019
+                            ",OZH,IEV,"M96215
+",1:00,UR-74026,10:42 AM,9:38 AM,â€”,"Landed 10:39 AM
+                            "
+"16 Aug 2019
+                            ",GRQ,OZH,"M96534
+",3:46,UR-74026,9:36 AM,9:34 AM,â€”,"Landed 1:21 PM
+                            "
+"13 Aug 2019
+                            ",LWO,GRQ,"M96533
+",2:44,UR-74026,7:52 AM,7:43 AM,â€”,"Landed 10:27 AM
+                            "
+"13 Aug 2019
+                            ",OZH,LWO,"M96215
+",2:12,UR-74026,3:57 AM,3:51 AM,â€”,"Landed 6:04 AM
+                            "
+"08 Aug 2019
+                            ",BOJ,OZH,"M9320
+",2:15,UR-74026,6:30 PM,6:09 PM,8:50 PM,"Landed 8:24 PM
+                            "
+"08 Aug 2019
+                            ",OZH,BOJ,"M9319
+",-,UR-74026,3:30 PM,â€”,5:50 PM,"Landed 5:25 PM
+                            "
+"07 Aug 2019
+                            ",SOF,OZH,"M96532
+",2:15,UR-74026,12:22 PM,12:16 PM,â€”,"Landed 2:31 PM
+                            "
+"07 Aug 2019
+                            ",OZH,SOF,"M96531
+",2:43,UR-74026,9:04 AM,9:00 AM,â€”,"Landed 11:43 AM
+                            "
+"04 Aug 2019
+                            ",BOJ,OZH,"M9320
+",-,UR-74026,6:30 PM,â€”,8:50 PM,"Landed 7:56 PM
+                            "
+"04 Aug 2019
+                            ",OZH,BOJ,"M9319
+",-,UR-74026,3:30 PM,â€”,5:50 PM,"Landed 4:57 PM
+                            "
+"01 Aug 2019
+                            ",BOJ,OZH,"M9320
+",2:15,UR-74026,6:30 PM,6:29 PM,8:50 PM,"Landed 8:44 PM
+                            "
+"01 Aug 2019
+                            ",OZH,BOJ,"M9319
+",2:10,UR-74026,3:30 PM,3:50 PM,5:50 PM,"Landed 6:00 PM
+                            "
+"28 Jul 2019
+                            ",BOJ,OZH,"M9320
+",2:15,UR-74026,6:30 PM,6:21 PM,8:50 PM,"Landed 8:36 PM
+                            "
+"28 Jul 2019
+                            ",OZH,BOJ,"M9319
+",2:10,UR-74026,3:30 PM,3:29 PM,5:50 PM,"Landed 5:39 PM
+                            "
+"28 Jul 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"28 Jul 2019
+                            ",OZH,MSQ,"M9317
+",2:03,UR-74026,4:45 AM,4:53 AM,7:00 AM,"Landed 6:56 AM
+                            "
+"26 Jul 2019
+                            ",PLV,OZH,"M96218
+",0:34,UR-74026,3:43 AM,3:40 AM,â€”,"Landed 4:14 AM
+                            "
+"26 Jul 2019
+                            ",TGD,PLV,"M96534
+",3:21,UR-74026,12:13 AM,12:05 AM,â€”,"Landed 3:27 AM
+                            "
+"24 Jul 2019
+                            ",OZH,TGD,"M96533
+",2:53,UR-74026,8:08 AM,8:10 AM,â€”,"Landed 11:03 AM
+                            "
+"23 Jul 2019
+                            ",GML,OZH,"M96216
+",1:29,UR-74026,11:30 AM,11:26 AM,â€”,"Landed 12:55 PM
+                            "
+"22 Jul 2019
+                            ",TGD,GML,"M96540
+",3:27,UR-74026,10:34 AM,10:10 AM,â€”,"Landed 1:37 PM
+                            "
+"22 Jul 2019
+                            ",OZH,TGD,"M96539
+",2:55,UR-74026,2:10 AM,2:10 AM,â€”,"Landed 5:05 AM
+                            "
+"20 Jul 2019
+                            ",IEV,OZH,"M96218
+",1:21,UR-74026,10:29 PM,10:26 PM,â€”,"Landed 11:48 PM
+                            "
+"20 Jul 2019
+                            ",KWG,IEV,"M96217
+",0:46,UR-74026,9:51 PM,9:02 PM,â€”,"Landed 9:47 PM
+                            "
+"20 Jul 2019
+                            ",IEV,KWG,"M96216
+",0:46,UR-74026,1:50 PM,1:06 PM,â€”,"Landed 1:52 PM
+                            "
+"20 Jul 2019
+                            ",OZH,IEV,"M96215
+",0:41,UR-74026,11:54 AM,11:10 AM,â€”,"Landed 11:51 AM
+                            "
+"19 Jul 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"19 Jul 2019
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:39 AM
+                            "
+"18 Jul 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"18 Jul 2019
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:26 AM
+                            "
+"17 Jul 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"17 Jul 2019
+                            ",OZH,MSQ,"M9317
+",1:35,UR-74026,3:45 AM,3:52 AM,6:00 AM,"Landed 5:27 AM
+                            "
+"15 Jul 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"15 Jul 2019
+                            ",OZH,MSQ,"M9317
+",2:03,UR-74026,3:45 AM,3:47 AM,6:00 AM,"Landed 5:50 AM
+                            "
+"14 Jul 2019
+                            ",BOJ,OZH,"M9320
+",-,UR-74026,6:30 PM,â€”,8:50 PM,"Landed 7:51 PM
+                            "
+"14 Jul 2019
+                            ",OZH,BOJ,"M9319
+",1:37,UR-74026,3:30 PM,3:34 PM,5:50 PM,"Landed 5:11 PM
+                            "
+"11 Jul 2019
+                            ",DHF,ESB,"M96548
+",6:30,UR-74026,9:16 PM,7:10 PM,â€”,"Landed 1:40 AM
+                            "
+"11 Jul 2019
+                            ",ESB,DHF,"M96547
+",4:33,UR-74026,1:38 PM,11:20 AM,â€”,"Landed 3:53 PM
+                            "
+"11 Jul 2019
+                            ",BTS,ESB,"M96547
+",2:19,UR-74026,7:40 AM,7:38 AM,â€”,"Landed 9:57 AM
+                            "
+"11 Jul 2019
+                            ",OZH,BTS,"M96547
+",2:33,UR-74026,6:04 AM,3:10 AM,â€”,"Landed 5:42 AM
+                            "
+"08 Jul 2019
+                            ",IEV,OZH,"M96214
+",1:02,UR-74026,7:42 AM,7:39 AM,â€”,"Landed 8:42 AM
+                            "
+"29 Jun 2019
+                            ",LGG,IEV,"M96542
+",3:14,UR-74026,3:36 PM,12:18 PM,â€”,"Landed 3:32 PM
+                            "
+"29 Jun 2019
+                            ",LYX,LGG,"M96542
+",0:45,UR-74026,11:02 AM,10:15 AM,â€”,"Landed 11:00 AM
+                            "
+"28 Jun 2019
+                            ",TEQ,LYX,"M96542
+",4:44,UR-74026,2:43 PM,9:57 AM,â€”,"Landed 2:41 PM
+                            "
+"28 Jun 2019
+                            ",CAI,TEQ,"M96542
+",2:33,UR-74026,4:28 AM,3:45 AM,â€”,"Landed 6:18 AM
+                            "
+"27 Jun 2019
+                            ",LGG,CAI,"M96541
+",4:31,UR-74026,7:26 PM,7:09 PM,â€”,"Landed 11:40 PM
+                            "
+"27 Jun 2019
+                            ",LYX,LGG,"M96541
+",0:45,UR-74026,5:03 PM,4:18 PM,â€”,"Landed 5:04 PM
+                            "
+"26 Jun 2019
+                            ",OZH,LYX,"M96541
+",4:39,UR-74026,5:11 PM,12:30 PM,â€”,"Landed 5:08 PM
+                            "
+"25 Jun 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"25 Jun 2019
+                            ",OZH,MSQ,"M9317
+",2:03,UR-74026,3:45 AM,3:43 AM,6:00 AM,"Landed 5:46 AM
+                            "
+"24 Jun 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:11 PM,2:15 PM,"Landed 2:11 PM
+                            "
+"24 Jun 2019
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:14 AM
+                            "
+"23 Jun 2019
+                            ",BOJ,OZH,"M9320
+",1:39,UR-74026,6:30 PM,6:09 PM,8:50 PM,"Landed 7:48 PM
+                            "
+"23 Jun 2019
+                            ",OZH,BOJ,"M9319
+",-,UR-74026,3:30 PM,â€”,5:50 PM,"Landed 5:16 PM
+                            "
+"23 Jun 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"23 Jun 2019
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,4:45 AM,â€”,7:00 AM,"Landed 6:25 AM
+                            "
+"22 Jun 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,11:47 AM,2:15 PM,"Landed 1:48 PM
+                            "
+"22 Jun 2019
+                            ",OZH,MSQ,"M9317
+",2:03,UR-74026,4:45 AM,4:48 AM,7:00 AM,"Landed 6:51 AM
+                            "
+"21 Jun 2019
+                            ",IEV,OZH,"M9202
+",1:17,UR-74026,5:00 PM,5:04 PM,6:15 PM,"Landed 6:21 PM
+                            "
+"21 Jun 2019
+                            ",LWO,IEV,"M9264
+",1:00,UR-74026,2:50 PM,2:49 PM,4:10 PM,"Landed 3:48 PM
+                            "
+"21 Jun 2019
+                            ",IEV,LWO,"M9263
+",1:04,UR-74026,7:00 AM,7:08 AM,8:15 AM,"Landed 8:11 AM
+                            "
+"21 Jun 2019
+                            ",OZH,IEV,"M9201
+",1:00,UR-74026,4:20 AM,4:31 AM,5:50 AM,"Landed 5:32 AM
+                            "
+"20 Jun 2019
+                            ",GML,OZH,"M96216
+",1:23,UR-74026,1:37 PM,1:33 PM,â€”,"Landed 2:56 PM
+                            "
+"20 Jun 2019
+                            ",TGD,GML,"M96540
+",3:39,UR-74026,9:09 AM,5:10 AM,â€”,"Landed 8:49 AM
+                            "
+"14 Jun 2019
+                            ",OZH,TGD,"M96539
+",2:55,UR-74026,2:17 AM,2:10 AM,â€”,"Landed 5:05 AM
+                            "
+"12 Jun 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"12 Jun 2019
+                            ",OZH,MSQ,"M9317
+",1:43,UR-74026,3:45 AM,3:45 AM,6:00 AM,"Landed 5:27 AM
+                            "
+"11 Jun 2019
+                            ",IEV,OZH,"M9202
+",1:17,UR-74026,5:00 PM,5:01 PM,6:15 PM,"Landed 6:18 PM
+                            "
+"11 Jun 2019
+                            ",LWO,IEV,"M9264
+",1:03,UR-74026,2:50 PM,2:50 PM,4:10 PM,"Landed 3:53 PM
+                            "
+"11 Jun 2019
+                            ",IEV,LWO,"M9263
+",1:22,UR-74026,7:00 AM,6:58 AM,8:15 AM,"Landed 8:20 AM
+                            "
+"11 Jun 2019
+                            ",OZH,IEV,"M9201
+",1:01,UR-74026,4:20 AM,4:27 AM,5:50 AM,"Landed 5:28 AM
+                            "
+"04 Jun 2019
+                            ",HME,OZH,"M96548
+",5:52,UR-74026,10:55 PM,5:06 PM,â€”,"Landed 10:58 PM
+                            "
+"31 May 2019
+                            ",MIR,LGG,"M96548
+",3:53,UR-74026,3:08 PM,11:15 AM,â€”,"Landed 3:08 PM
+                            "
+"28 May 2019
+                            ",BEN,MIR,"M96548
+",1:53,UR-74026,2:44 PM,1:40 PM,â€”,"Landed 3:33 PM
+                            "
+"28 May 2019
+                            ",ZRH,BEN,"M96547
+",3:51,UR-74026,8:24 AM,8:21 AM,â€”,"Landed 12:13 PM
+                            "
+"28 May 2019
+                            ",SOF,ZRH,"M96548
+",2:30,UR-74026,2:49 AM,2:45 AM,â€”,"Landed 5:15 AM
+                            "
+"27 May 2019
+                            ",ASB,SOF,"M96548
+",6:07,UR-74026,4:57 PM,10:50 AM,â€”,"Landed 4:56 PM
+                            "
+"24 May 2019
+                            ",TBS,MCT,"M96547
+",-,UR-74026,6:09 AM,2:01 AM,â€”,"Unknown
+                            "
+"23 May 2019
+                            ",BOJ,TBS,"M96547
+",3:00,UR-74026,2:13 PM,2:06 PM,â€”,"Landed 5:07 PM
+                            "
+"23 May 2019
+                            ",OZH,BOJ,"M96547
+",1:49,UR-74026,10:58 AM,11:10 AM,â€”,"Landed 12:59 PM
+                            "
+"22 May 2019
+                            ",MSQ,OZH,"M9318
+",1:28,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 1:27 PM
+                            "
+"22 May 2019
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 8:00 AM
+                            "
+"20 May 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"20 May 2019
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:34 AM
+                            "
+"17 May 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,11:55 AM,2:15 PM,"Landed 1:56 PM
+                            "
+"17 May 2019
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:29 AM
+                            "
+"16 May 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"16 May 2019
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:21 AM
+                            "
+"15 May 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 2:00 PM
+                            "
+"15 May 2019
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:19 AM
+                            "
+"14 May 2019
+                            ",MSQ,OZH,"M9318
+",2:00,UR-74026,12:00 PM,11:51 AM,2:15 PM,"Landed 1:52 PM
+                            "
+"14 May 2019
+                            ",OZH,MSQ,"M9317
+",2:03,UR-74026,3:45 AM,3:45 AM,6:00 AM,"Landed 5:48 AM
+                            "
+"10 May 2019
+                            ",IEV,OZH,"M9202
+",1:17,UR-74026,5:00 PM,5:11 PM,6:15 PM,"Landed 6:29 PM
+                            "
+"10 May 2019
+                            ",IEV,ODS,"M9254
+",0:59,UR-74026,6:50 AM,6:50 AM,8:10 AM,"Landed 7:49 AM
+                            "
+"10 May 2019
+                            ",OZH,IEV,"M9201
+",-,UR-74026,4:20 AM,â€”,5:50 AM,"Landed 5:22 AM
+                            "
+"09 May 2019
+                            ",IEV,OZH,"M9202
+",1:17,UR-74026,5:00 PM,4:58 PM,6:15 PM,"Landed 6:15 PM
+                            "
+"09 May 2019
+                            ",LWO,IEV,"M9264
+",1:03,UR-74026,2:50 PM,2:50 PM,4:10 PM,"Landed 3:52 PM
+                            "
+"09 May 2019
+                            ",IEV,LWO,"M9263
+",1:18,UR-74026,7:00 AM,7:05 AM,8:15 AM,"Landed 8:22 AM
+                            "
+"09 May 2019
+                            ",OZH,IEV,"M9201
+",-,UR-74026,4:20 AM,â€”,5:50 AM,"Landed 5:12 AM
+                            "
+"27 Apr 2019
+                            ",TLV,OZH,"M96532
+",3:36,UR-74026,2:55 PM,2:50 PM,â€”,"Landed 6:26 PM
+                            "
+"26 Apr 2019
+                            ",OZH,TLV,"M96531
+",4:06,UR-74026,7:45 AM,3:10 AM,â€”,"Landed 7:15 AM
+                            "
+"24 Apr 2019
+                            ",IEV,OZH,"M9202
+",1:17,UR-74026,5:00 PM,5:08 PM,6:15 PM,"Landed 6:25 PM
+                            "
+"24 Apr 2019
+                            ",LWO,IEV,"M9264
+",0:57,UR-74026,2:50 PM,3:01 PM,4:10 PM,"Landed 3:58 PM
+                            "
+"24 Apr 2019
+                            ",IEV,LWO,"M9263
+",1:05,UR-74026,7:00 AM,7:04 AM,8:15 AM,"Landed 8:09 AM
+                            "
+"24 Apr 2019
+                            ",OZH,IEV,"M9201
+",-,UR-74026,4:20 AM,â€”,5:50 AM,"Landed 5:28 AM
+                            "
+"07 Nov 2018
+                            ",ASB,OZH,"M96542
+",6:53,UR-74026,8:34 AM,7:10 AM,â€”,"Landed 2:03 PM
+                            "
+"06 Nov 2018
+                            ",TBS,KDH,"M96541
+",4:30,UR-74026,2:57 AM,2:53 AM,â€”,"Landed 7:24 AM
+                            "
+"05 Nov 2018
+                            ",BOJ,TBS,"M96541
+",2:53,UR-74026,12:12 PM,12:07 PM,â€”,"Landed 3:01 PM
+                            "
+"05 Nov 2018
+                            ",BZG,BOJ,"M96541
+",2:54,UR-74026,8:26 AM,8:25 AM,â€”,"Landed 11:19 AM
+                            "
+"05 Nov 2018
+                            ",OZH,BZG,"M96541
+",2:46,UR-74026,3:46 AM,3:40 AM,â€”,"Landed 6:26 AM
+                            "
+"04 Nov 2018
+                            ",MBX,OZH,"M96532
+",3:04,UR-74026,7:30 PM,7:26 PM,â€”,"Landed 10:30 PM
+                            "
+"03 Nov 2018
+                            ",OZH,MBX,"M96531
+",3:10,UR-74026,6:29 AM,6:10 AM,â€”,"Landed 9:20 AM
+                            "
+"01 Nov 2018
+                            ",CHR,OZH,"M96548
+",5:01,UR-74026,4:10 PM,4:06 PM,â€”,"Landed 9:08 PM
+                            "
+"01 Nov 2018
+                            ",CAI,CHR,"M96547
+",6:25,UR-74026,9:31 AM,8:15 AM,â€”,"Landed 2:40 PM
+                            "
+"16 Oct 2018
+                            ",INI,ASW,"M96547
+",4:18,UR-74026,6:14 AM,6:09 AM,â€”,"Landed 10:28 AM
+                            "
+"03 Oct 2018
+                            ",BLL,OZH,"M96532
+",3:25,UR-74026,10:06 PM,10:05 PM,â€”,"Landed 1:30 AM
+                            "
+"02 Oct 2018
+                            ",OZH,BLL,"M96531
+",4:04,UR-74026,5:50 AM,5:40 AM,â€”,"Landed 9:44 AM
+                            "
+"28 Sep 2018
+                            ",OZH,INI,"M96548
+",2:06,UR-74026,5:31 AM,5:40 AM,â€”,"Landed 7:45 AM
+                            "
+"23 Sep 2018
+                            ",BLL,OZH,"M96532
+",3:28,UR-74026,7:02 PM,7:01 PM,â€”,"Landed 10:30 PM
+                            "
+"21 Sep 2018
+                            ",OZH,BLL,"M96531
+",4:16,UR-74026,1:05 PM,1:10 PM,â€”,"Landed 5:26 PM
+                            "
+"21 Sep 2018
+                            ",GUW,OZH,"M96546
+",6:01,UR-74026,5:23 AM,2:10 AM,â€”,"Landed 8:11 AM
+                            "
+"20 Sep 2018
+                            ",ESB,GUW,"M96545
+",3:58,UR-74026,9:58 AM,9:15 AM,â€”,"Landed 1:13 PM
+                            "
+"20 Sep 2018
+                            ",VCE,ESB,"M96545
+",3:46,UR-74026,4:06 AM,4:04 AM,â€”,"Landed 7:51 AM
+                            "
+"19 Sep 2018
+                            ",LBG,VCE,"M96543
+",1:44,UR-74026,11:36 AM,11:34 AM,â€”,"Landed 1:19 PM
+                            "
+"16 Sep 2018
+                            ",DUB,LBG,"M96542
+",1:40,UR-74026,8:25 AM,8:24 AM,â€”,"Landed 10:04 AM
+                            "
+"14 Sep 2018
+                            ",LBG,DUB,"M96541
+",2:11,UR-74026,11:29 AM,11:28 AM,â€”,"Landed 1:40 PM
+                            "
+"13 Sep 2018
+                            ",OZH,LBG,"M96540
+",4:57,UR-74026,7:44 AM,7:40 AM,â€”,"Landed 12:37 PM
+                            "
+"12 Sep 2018
+                            ",MSQ,OZH,"M9318
+",1:45,UR-74026,12:00 PM,11:58 AM,2:15 PM,"Landed 1:42 PM
+                            "
+"12 Sep 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:44 AM
+                            "
+"29 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:44,UR-74026,12:00 PM,11:52 AM,2:15 PM,"Landed 1:36 PM
+                            "
+"29 Aug 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:28 AM
+                            "
+"23 Aug 2018
+                            ",IEV,OZH,"M9202
+",1:03,UR-74026,5:00 PM,6:41 PM,6:15 PM,"Landed 7:43 PM
+                            "
+"23 Aug 2018
+                            ",LWO,IEV,"M9264
+",1:01,UR-74026,2:50 PM,2:58 PM,4:10 PM,"Landed 3:59 PM
+                            "
+"23 Aug 2018
+                            ",IEV,LWO,"M9263
+",1:02,UR-74026,7:00 AM,7:02 AM,8:15 AM,"Landed 8:04 AM
+                            "
+"23 Aug 2018
+                            ",OZH,IEV,"M9201
+",-,UR-74026,4:20 AM,â€”,5:50 AM,"Landed 5:41 AM
+                            "
+"22 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:35,UR-74026,12:00 PM,11:49 AM,2:15 PM,"Landed 1:24 PM
+                            "
+"22 Aug 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:40 AM
+                            "
+"21 Aug 2018
+                            ",MSQ,OZH,"M9318
+",-,UR-74026,12:00 PM,â€”,2:15 PM,"Unknown
+                            "
+"21 Aug 2018
+                            ",OZH,MSQ,"M9317
+",1:40,UR-74026,3:45 AM,3:57 AM,6:00 AM,"Landed 5:37 AM
+                            "
+"14 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:40,UR-74026,12:00 PM,11:57 AM,2:15 PM,"Landed 1:37 PM
+                            "
+"14 Aug 2018
+                            ",OZH,MSQ,"M9317
+",1:38,UR-74026,3:45 AM,3:48 AM,6:00 AM,"Landed 5:26 AM
+                            "
+"13 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:38,UR-74026,12:00 PM,11:49 AM,2:15 PM,"Landed 1:27 PM
+                            "
+"13 Aug 2018
+                            ",OZH,MSQ,"M9317
+",1:41,UR-74026,3:45 AM,3:53 AM,6:00 AM,"Landed 5:34 AM
+                            "
+"12 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:35,UR-74026,12:00 PM,11:53 AM,2:15 PM,"Landed 1:27 PM
+                            "
+"12 Aug 2018
+                            ",OZH,MSQ,"M9317
+",1:44,UR-74026,6:00 AM,6:12 AM,8:15 AM,"Landed 7:56 AM
+                            "
+"11 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:46,UR-74026,12:00 PM,11:58 AM,2:15 PM,"Landed 1:44 PM
+                            "
+"11 Aug 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,6:00 AM,â€”,8:15 AM,"Landed 7:36 AM
+                            "
+"09 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:33,UR-74026,12:00 PM,11:50 AM,2:15 PM,"Landed 1:23 PM
+                            "
+"09 Aug 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:27 AM
+                            "
+"08 Aug 2018
+                            ",MSQ,OZH,"M9318
+",-,UR-74026,12:00 PM,â€”,2:15 PM,"Unknown
+                            "
+"08 Aug 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:27 AM
+                            "
+"07 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:32,UR-74026,12:00 PM,11:52 AM,2:15 PM,"Landed 1:24 PM
+                            "
+"07 Aug 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:33 AM
+                            "
+"06 Aug 2018
+                            ",MSQ,OZH,"M9318
+",-,UR-74026,12:00 PM,â€”,2:15 PM,"Unknown
+                            "
+"06 Aug 2018
+                            ",OZH,MSQ,"M9317
+",1:45,UR-74026,3:45 AM,3:49 AM,6:00 AM,"Landed 5:35 AM
+                            "
+"05 Aug 2018
+                            ",BOJ,OZH,"M9320
+",-,UR-74026,10:00 AM,â€”,12:20 PM,"Unknown
+                            "
+"05 Aug 2018
+                            ",OZH,BOJ,"M9319
+",-,UR-74026,5:30 AM,â€”,7:50 AM,"Unknown
+                            "
+"05 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:42,UR-74026,12:00 PM,11:48 AM,2:15 PM,"Landed 1:30 PM
+                            "
+"05 Aug 2018
+                            ",OZH,MSQ,"M9317
+",1:40,UR-74026,6:00 AM,6:02 AM,8:15 AM,"Landed 7:42 AM
+                            "
+"03 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:39,UR-74026,12:00 PM,11:57 AM,2:15 PM,"Landed 1:35 PM
+                            "
+"03 Aug 2018
+                            ",OZH,MSQ,"M9317
+",1:40,UR-74026,3:45 AM,3:53 AM,6:00 AM,"Landed 5:34 AM
+                            "
+"02 Aug 2018
+                            ",BOJ,OZH,"M9320
+",-,UR-74026,6:00 PM,â€”,8:20 PM,"Landed 8:39 PM
+                            "
+"02 Aug 2018
+                            ",OZH,BOJ,"M9319
+",-,UR-74026,3:00 PM,â€”,5:20 PM,"Unknown
+                            "
+"01 Aug 2018
+                            ",MSQ,OZH,"M9318
+",1:33,UR-74026,12:00 PM,12:05 PM,2:15 PM,"Landed 1:38 PM
+                            "
+"01 Aug 2018
+                            ",OZH,MSQ,"M9317
+",1:44,UR-74026,3:45 AM,4:00 AM,6:00 AM,"Landed 5:44 AM
+                            "
+"25 Jul 2018
+                            ",KRW,OZH,"M96548
+",5:25,UR-74026,11:55 PM,11:40 PM,â€”,"Landed 5:05 AM
+                            "
+"24 Jul 2018
+                            ",GYD,KHI,"M96547
+",4:52,UR-74026,7:02 PM,5:40 PM,â€”,"Landed 10:32 PM
+                            "
+"24 Jul 2018
+                            ",CHR,BOJ,"M96547
+",4:02,UR-74026,7:15 AM,7:13 AM,â€”,"Landed 11:15 AM
+                            "
+"23 Jul 2018
+                            ",XCR,CHR,"M96548
+",1:03,UR-74026,8:32 AM,8:05 AM,â€”,"Landed 9:08 AM
+                            "
+"20 Jul 2018
+                            ",BOJ,XCR,"M96548
+",4:08,UR-74026,10:09 AM,10:07 AM,â€”,"Landed 2:15 PM
+                            "
+"20 Jul 2018
+                            ",BUS,BOJ,"M96548
+",2:21,UR-74026,6:58 AM,6:40 AM,â€”,"Landed 9:00 AM
+                            "
+"18 Jul 2018
+                            ",SAW,BUS,"M96547
+",2:21,UR-74026,1:07 PM,1:06 PM,â€”,"Landed 3:28 PM
+                            "
+"18 Jul 2018
+                            ",KRT,SAW,"M96548
+",5:28,UR-74026,4:50 AM,1:10 AM,â€”,"Landed 6:38 AM
+                            "
+"15 Jul 2018
+                            ",OZH,TZL,"M96547
+",3:08,UR-74026,9:57 AM,9:25 AM,â€”,"Landed 12:32 PM
+                            "
+"12 Jul 2018
+                            ",BOJ,OZH,"M9320
+",1:40,UR-74026,10:00 AM,9:52 AM,12:20 PM,"Landed 11:31 AM
+                            "
+"12 Jul 2018
+                            ",OZH,BOJ,"M9319
+",1:44,UR-74026,5:30 AM,5:36 AM,7:50 AM,"Landed 7:20 AM
+                            "
+"10 Jul 2018
+                            ",MSQ,OZH,"M9318
+",1:40,UR-74026,12:00 PM,11:56 AM,2:15 PM,"Landed 1:36 PM
+                            "
+"10 Jul 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:36 AM
+                            "
+"09 Jul 2018
+                            ",MSQ,OZH,"M9318
+",1:41,UR-74026,12:00 PM,11:45 AM,2:15 PM,"Landed 1:27 PM
+                            "
+"09 Jul 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:31 AM
+                            "
+"08 Jul 2018
+                            ",IEV,OZH,"M9204
+",1:01,UR-74026,5:30 PM,5:41 PM,6:45 PM,"Landed 6:42 PM
+                            "
+"08 Jul 2018
+                            ",LWO,IEV,"M9266
+",0:56,UR-74026,3:00 PM,3:04 PM,4:20 PM,"Landed 4:00 PM
+                            "
+"07 Jul 2018
+                            ",IEV,LWO,"M9265
+",1:04,UR-74026,8:00 AM,8:07 AM,9:20 AM,"Landed 9:11 AM
+                            "
+"07 Jul 2018
+                            ",OZH,IEV,"M9203
+",-,UR-74026,5:30 AM,â€”,6:50 AM,"Landed 6:36 AM
+                            "
+"06 Jul 2018
+                            ",MSQ,OZH,"M9318
+",1:41,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 1:42 PM
+                            "
+"06 Jul 2018
+                            ",OZH,MSQ,"M9317
+",1:41,UR-74026,3:45 AM,3:48 AM,6:00 AM,"Landed 5:28 AM
+                            "
+"05 Jul 2018
+                            ",BOJ,OZH,"M9320
+",1:35,UR-74026,10:00 AM,5:01 PM,12:20 PM,"Landed 6:35 PM
+                            "
+"05 Jul 2018
+                            ",OZH,BOJ,"M9319
+",-,UR-74026,5:30 AM,â€”,7:50 AM,"Landed 4:24 PM
+                            "
+"05 Jul 2018
+                            ",MSQ,OZH,"M9318
+",-,UR-74026,12:00 PM,â€”,2:15 PM,"Unknown
+                            "
+"05 Jul 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:30 AM
+                            "
+"04 Jul 2018
+                            ",IEV,OZH,"M9202
+",1:02,UR-74026,5:00 PM,5:33 PM,6:15 PM,"Landed 6:35 PM
+                            "
+"04 Jul 2018
+                            ",ODS,IEV,"M9251
+",1:01,UR-74026,2:50 PM,3:53 PM,4:10 PM,"Landed 4:54 PM
+                            "
+"04 Jul 2018
+                            ",OZH,ODS,"M96217
+",1:05,UR-74026,2:23 PM,2:10 PM,â€”,"Landed 3:14 PM
+                            "
+"04 Jul 2018
+                            ",MSQ,OZH,"M9318
+",1:37,UR-74026,12:00 PM,11:53 AM,2:15 PM,"Landed 1:30 PM
+                            "
+"04 Jul 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:39 AM
+                            "
+"03 Jul 2018
+                            ",MSQ,OZH,"M9318
+",1:38,UR-74026,12:00 PM,11:49 AM,2:15 PM,"Landed 1:27 PM
+                            "
+"03 Jul 2018
+                            ",OZH,MSQ,"M9317
+",1:38,UR-74026,3:45 AM,3:51 AM,6:00 AM,"Landed 5:29 AM
+                            "
+"02 Jul 2018
+                            ",MSQ,OZH,"M9318
+",1:32,UR-74026,12:00 PM,11:44 AM,2:15 PM,"Landed 1:16 PM
+                            "
+"02 Jul 2018
+                            ",OZH,MSQ,"M9317
+",1:42,UR-74026,3:45 AM,3:47 AM,6:00 AM,"Landed 5:29 AM
+                            "
+"01 Jul 2018
+                            ",MSQ,OZH,"M9318
+",1:49,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 1:49 PM
+                            "
+"01 Jul 2018
+                            ",OZH,MSQ,"M9317
+",1:52,UR-74026,6:00 AM,6:18 AM,8:15 AM,"Landed 8:10 AM
+                            "
+"30 Jun 2018
+                            ",MSQ,OZH,"M9318
+",1:48,UR-74026,12:00 PM,11:55 AM,2:15 PM,"Landed 1:42 PM
+                            "
+"30 Jun 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,6:00 AM,â€”,8:15 AM,"Unknown
+                            "
+"29 Jun 2018
+                            ",MSQ,OZH,"M9318
+",1:48,UR-74026,12:00 PM,11:48 AM,2:15 PM,"Landed 1:36 PM
+                            "
+"29 Jun 2018
+                            ",OZH,MSQ,"M9317
+",1:31,UR-74026,3:45 AM,3:46 AM,6:00 AM,"Landed 5:17 AM
+                            "
+"28 Jun 2018
+                            ",MSQ,OZH,"M9318
+",1:47,UR-74026,12:00 PM,12:03 PM,2:15 PM,"Landed 1:50 PM
+                            "
+"28 Jun 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Unknown
+                            "
+"27 Jun 2018
+                            ",MSQ,OZH,"M9318
+",1:46,UR-74026,12:00 PM,11:48 AM,2:15 PM,"Landed 1:33 PM
+                            "
+"27 Jun 2018
+                            ",OZH,MSQ,"M9317
+",1:31,UR-74026,3:45 AM,3:50 AM,6:00 AM,"Landed 5:20 AM
+                            "
+"26 Jun 2018
+                            ",IEV,OZH,"M9202
+",1:03,UR-74026,5:00 PM,5:01 PM,6:15 PM,"Landed 6:04 PM
+                            "
+"26 Jun 2018
+                            ",LWO,IEV,"M9264
+",1:02,UR-74026,2:50 PM,2:55 PM,4:10 PM,"Landed 3:57 PM
+                            "
+"26 Jun 2018
+                            ",IEV,LWO,"M9263
+",1:05,UR-74026,7:00 AM,7:04 AM,8:15 AM,"Landed 8:10 AM
+                            "
+"26 Jun 2018
+                            ",OZH,IEV,"M9201
+",-,UR-74026,4:20 AM,â€”,5:50 AM,"Landed 5:28 AM
+                            "
+"25 Jun 2018
+                            ",MSQ,OZH,"M9318
+",1:46,UR-74026,12:00 PM,12:05 PM,2:15 PM,"Landed 1:52 PM
+                            "
+"25 Jun 2018
+                            ",OZH,MSQ,"M9317
+",1:32,UR-74026,3:45 AM,3:44 AM,6:00 AM,"Landed 5:16 AM
+                            "
+"24 Jun 2018
+                            ",MSQ,OZH,"M9318
+",1:48,UR-74026,12:00 PM,11:55 AM,2:15 PM,"Landed 1:43 PM
+                            "
+"24 Jun 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,6:00 AM,â€”,8:15 AM,"Unknown
+                            "
+"23 Jun 2018
+                            ",MSQ,OZH,"M9318
+",1:54,UR-74026,12:00 PM,11:40 AM,2:15 PM,"Landed 1:33 PM
+                            "
+"23 Jun 2018
+                            ",OZH,MSQ,"M9317
+",1:39,UR-74026,6:00 AM,5:58 AM,8:15 AM,"Landed 7:37 AM
+                            "
+"22 Jun 2018
+                            ",MSQ,OZH,"M9318
+",1:54,UR-74026,12:00 PM,12:00 PM,2:15 PM,"Landed 1:53 PM
+                            "
+"22 Jun 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Unknown
+                            "
+"21 Jun 2018
+                            ",BOJ,OZH,"M9320
+",1:41,UR-74026,10:00 AM,10:27 AM,12:20 PM,"Landed 12:08 PM
+                            "
+"21 Jun 2018
+                            ",OZH,BOJ,"M9319
+",-,UR-74026,5:30 AM,â€”,7:50 AM,"Unknown
+                            "
+"19 Jun 2018
+                            ",ODS,OZH,"M96216
+",0:57,UR-74026,9:49 AM,9:46 AM,â€”,"Landed 10:44 AM
+                            "
+"27 May 2018
+                            ",KRW,OZH,"M96548
+",5:24,UR-74026,6:00 AM,5:10 AM,â€”,"Landed 10:34 AM
+                            "
+"24 May 2018
+                            ",TBS,AMD,"M96547
+",6:08,UR-74026,10:06 PM,4:00 PM,â€”,"Landed 10:08 PM
+                            "
+"23 May 2018
+                            ",BOJ,TBS,"M96547
+",2:46,UR-74026,10:30 PM,10:27 PM,â€”,"Landed 1:14 AM
+                            "
+"23 May 2018
+                            ",CHR,BOJ,"M96547
+",3:49,UR-74026,5:45 PM,5:43 PM,â€”,"Landed 9:32 PM
+                            "
+"23 May 2018
+                            ",OZH,CHR,"M96547
+",4:53,UR-74026,9:12 AM,9:00 AM,â€”,"Landed 1:52 PM
+                            "
+"21 May 2018
+                            ",MSQ,OZH,"M9318
+",1:56,UR-74026,12:00 PM,12:06 PM,2:15 PM,"Landed 2:02 PM
+                            "
+"21 May 2018
+                            ",OZH,MSQ,"M9317
+",-,UR-74026,3:45 AM,â€”,6:00 AM,"Landed 5:37 AM
+                            "
+"20 May 2018
+                            ",ATH,OZH,"M96547
+",2:55,UR-74026,7:59 AM,7:58 AM,â€”,"Landed 10:53 AM
+                            "
+"19 May 2018
+                            ",FCO,ATH,"M96548
+",2:03,UR-74026,12:50 PM,12:50 PM,â€”,"Landed 2:53 PM
+                            "
+"19 May 2018
+                            ",KAN,FCO,"M96548
+",6:00,UR-74026,12:07 AM,7:40 PM,â€”,"Landed 1:40 AM
+                            "
+"16 May 2018
+                            ",OZH,KBP,"M96215
+",0:45,UR-74026,5:04 PM,5:10 PM,â€”,"Landed 5:54 PM
+                            "
+"15 May 2018
+                            ",MSQ,OZH,"M9318
+",1:40,UR-74026,12:00 PM,11:42 AM,2:15 PM,"Landed 1:22 PM
+                            "
+"15 May 2018
+                            ",OZH,MSQ,"M9317
+",1:44,UR-74026,3:45 AM,3:59 AM,6:00 AM,"Landed 5:43 AM
+                            "
+"11 May 2018
+                            ",IEV,OZH,"M9202
+",0:59,UR-74026,5:00 PM,5:10 PM,6:15 PM,"Landed 6:09 PM
+                            "
+"11 May 2018
+                            ",LWO,IEV,"M9264
+",-,UR-74026,2:50 PM,â€”,4:10 PM,"Landed 3:54 PM
+                            "
+"11 May 2018
+                            ",IEV,LWO,"M9263
+",1:02,UR-74026,7:00 AM,7:02 AM,8:15 AM,"Landed 8:05 AM
+                            "
+"11 May 2018
+                            ",OZH,IEV,"M9201
+",1:04,UR-74026,4:20 AM,4:36 AM,5:50 AM,"Landed 5:40 AM
+                            "
+"08 May 2018
+                            ",IEV,OZH,"M9202
+",1:02,UR-74026,5:00 PM,5:13 PM,6:15 PM,"Landed 6:15 PM
+                            "
+"08 May 2018
+                            ",LWO,IEV,"M9264
+",1:03,UR-74026,2:50 PM,2:48 PM,4:10 PM,"Landed 3:51 PM
+                            "
+"08 May 2018
+                            ",IEV,LWO,"M9263
+",1:00,UR-74026,7:00 AM,7:00 AM,8:15 AM,"Landed 8:00 AM
+                            "
+"08 May 2018
+                            ",OZH,IEV,"M9201
+",0:58,UR-74026,4:20 AM,4:31 AM,5:50 AM,"Landed 5:29 AM
+                            "
+"04 May 2018
+                            ",IEV,OZH,"M9202
+",1:03,UR-74026,5:00 PM,5:06 PM,6:15 PM,"Landed 6:09 PM
+                            "
+"04 May 2018
+                            ",LWO,IEV,"M9264
+",-,UR-74026,2:50 PM,â€”,4:10 PM,"Landed 3:58 PM
+                            "
+"04 May 2018
+                            ",IEV,LWO,"M9263
+",1:02,UR-74026,7:00 AM,7:03 AM,8:15 AM,"Landed 8:05 AM
+                            "
+"04 May 2018
+                            ",OZH,IEV,"M9201
+",-,UR-74026,4:20 AM,â€”,5:50 AM,"Landed 5:30 AM
+                            "
+"28 Apr 2018
+                            ",MSQ,OZH,"M9318
+",1:30,UR-74026,12:00 PM,11:56 AM,2:15 PM,"Landed 1:26 PM
+                            "
+"28 Apr 2018
+                            ",OZH,MSQ,"M9317
+",2:04,UR-74026,6:00 AM,6:11 AM,8:15 AM,"Landed 8:15 AM
+                            "
+"27 Apr 2018
+                            ",MSQ,OZH,"M99552
+",1:32,UR-74026,7:33 PM,7:29 PM,â€”,"Landed 9:02 PM
+                            "
+"27 Apr 2018
+                            ",OZH,MSQ,"M99551
+",2:18,UR-74026,4:37 PM,4:25 PM,â€”,"Landed 6:42 PM
+                            "
+"27 Apr 2018
+                            ",MSQ,OZH,"M9318
+",1:36,UR-74026,12:00 PM,11:46 AM,2:15 PM,"Landed 1:22 PM
+                            "
+"27 Apr 2018
+                            ",OZH,MSQ,"M9317
+",1:39,UR-74026,3:45 AM,3:51 AM,6:00 AM,"Landed 5:30 AM
+                            "
+"25 Apr 2018
+                            ",IEV,OZH,"M9202
+",0:53,UR-74026,5:00 PM,5:07 PM,6:15 PM,"Landed 6:01 PM
+                            "
+"25 Apr 2018
+                            ",LWO,IEV,"M9264
+",0:57,UR-74026,2:50 PM,2:57 PM,4:10 PM,"Landed 3:53 PM
+                            "
+"25 Apr 2018
+                            ",IEV,LWO,"M9263
+",1:08,UR-74026,7:00 AM,7:03 AM,8:15 AM,"Landed 8:11 AM
+                            "
+"25 Apr 2018
+                            ",OZH,IEV,"M9201
+",1:05,UR-74026,4:20 AM,4:37 AM,5:50 AM,"Landed 5:42 AM
+                            "
+"24 Apr 2018
+                            ",IEV,OZH,"M9202
+",0:53,UR-74026,5:00 PM,5:13 PM,6:15 PM,"Landed 6:05 PM
+                            "
+"24 Apr 2018
+                            ",LWO,IEV,"M9264
+",0:57,UR-74026,2:50 PM,2:57 PM,4:10 PM,"Landed 3:53 PM
+                            "
+"24 Apr 2018
+                            ",IEV,LWO,"M9263
+",1:11,UR-74026,7:00 AM,7:05 AM,8:15 AM,"Landed 8:15 AM
+                            "
+"24 Apr 2018
+                            ",OZH,IEV,"M9201
+",1:04,UR-74026,4:20 AM,4:31 AM,5:50 AM,"Landed 5:35 AM
+                            "
+"20 Apr 2018
+                            ",MSQ,OZH,"M9318
+",1:32,UR-74026,12:00 PM,11:49 AM,2:15 PM,"Landed 1:22 PM
+                            "
+"20 Apr 2018
+                            ",OZH,MSQ,"M9317
+",1:47,UR-74026,3:45 AM,3:51 AM,6:00 AM,"Landed 5:37 AM
+                            "
+"17 Apr 2018
+                            ",MUC,OZH,"M96548
+",2:57,UR-74026,3:02 PM,3:01 PM,â€”,"Landed 5:59 PM
+                            "
+"15 Apr 2018
+                            ",MUC,CAI,"M96547
+",5:15,UR-74026,8:18 AM,8:17 AM,â€”,"Landed 1:33 PM
+                            "
+"15 Apr 2018
+                            ",OZH,MUC,"M96547
+",3:31,UR-74026,2:42 AM,2:40 AM,â€”,"Landed 6:11 AM
+                            "
+"07 Apr 2018
+                            ",TLV,OZH,"M96532
+",3:42,UR-74026,3:05 PM,3:03 PM,â€”,"Landed 6:45 PM
+                            "
+"06 Apr 2018
+                            ",OZH,TLV,"M96531
+",4:25,UR-74026,5:10 AM,5:03 AM,â€”,"Landed 9:28 AM
+                            "
