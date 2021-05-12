@@ -5,10 +5,6 @@ from datetime import datetime
 from datetime import timedelta
 import pytz
 
-'''обов'язково лишити свій час і день тижня
-додати коди лєвацька моя ф-я внизу
-destinaton to destination'''
-
 
 def get_icao():
     airports = pd.read_csv('unique/airports_relevant_z.csv')
